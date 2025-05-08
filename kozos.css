@@ -1,0 +1,69 @@
+body {
+    background-color: #F0F8FF;
+    color: #00008B;
+}
+
+a :visited {
+    color: #DC143C;
+}
+
+a :active {
+    color: #DC143C;
+}
+
+a :hover {
+    color: #DC143C;
+}
+
+.szarka-cimke {
+    text-align: center;
+}
+
+.szarka {
+    border: 1px solid black;
+}
+
+.vonal {
+    width: 70%;
+}
+
+h2 {
+    color: #DC143C;
+}
+
+.szarka-table-a {
+    margin: auto;
+    margin-top:20px;
+    width: 400px;
+}
+
+.div-row {
+    width: 100%;
+}
+
+.div-col-a {
+    display: inline-block;
+    border: 1px solid green;
+    width:75%;
+}
+
+.div-col-b {
+    vertical-align: top;
+    float: right;
+}
+
+.table-besorol {
+    margin: auto;
+    width: 500px;
+}
+
+
+.table-row-title {
+    text-align: center;
+    background-color: #DC143C;
+}
+
+.table-row-title h2 {
+    color: #F0F8FF;
+
+}
